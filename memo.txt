@@ -1,0 +1,11 @@
+
+
+### Python仮想環境
+source env/bin/activate
+
+### コンパイラのパス有効化
+export PATH=/Volumes/SSD\ 512GB/Development/uf2-stm32f/compiler/gcc-arm-none-eabi-10.3-2021.10/bin:$PATH
+
+### ビルド
+make BOARD=miniF4_222
+

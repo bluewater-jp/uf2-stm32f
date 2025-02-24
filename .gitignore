@@ -14,3 +14,6 @@ Bootloader.sublime-workspace
 build
 tmp
 Makefile.user
+
+env
+compiler
