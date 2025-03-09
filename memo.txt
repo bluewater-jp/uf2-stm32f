@@ -9,3 +9,9 @@ export PATH=/Volumes/SSD\ 512GB/Development/uf2-stm32f/compiler/gcc-arm-none-eab
 ### ビルド
 make BOARD=miniF4_222
 
+### 参考
+
+https://arcade.makecode.com/hardware/adding
+https://note.com/phillowcompiler/n/ncc4b7570d2e6
+
+https://os.mbed.com/users/hudakz/code/Blackpill_Hello/
